@@ -1,5 +1,5 @@
 
-# YouTube Video Manager
+# YouTube Video Management System
 
 This project is a command-line tool developed in Python that allows users to manage YouTube video records using a MySQL database. The tool supports adding, viewing, updating, and deleting video records.
 
